@@ -1,5 +1,7 @@
 # ConstChoices
 
+[![PyPI version](https://badge.fury.io/py/ConstChoices.svg)](https://badge.fury.io/py/ConstChoices)
+
 ConstChoices is a enhance module using class-style define for const choices.
 
 ## Basic Uage
