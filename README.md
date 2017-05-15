@@ -1,5 +1,9 @@
 # ConstChoices
 
+
+THE PROJECT IS NOT MAINTAINED AND MERGED TO [boron](https://pypi.python.org/pypi/boron), USE `from boron.structures.choices import ConstChoices` INSTEAD !
+
+
 [![PyPI version](https://badge.fury.io/py/ConstChoices.svg)](https://badge.fury.io/py/ConstChoices)
 
 ConstChoices is a enhance module using class-style define for const choices.
